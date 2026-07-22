@@ -32,7 +32,7 @@ ${constraints || '*Da compilare*'}
 
 ---
 
-*Specifica generata con [Costruttore di Specifiche Software](https://cristianporco.it/app/specmaker/)*
+*Specifica generata con [Costruttore di Specifiche Software](https://github.com/bonciarello/specmaker/)*
 `;
 }
 
@@ -67,6 +67,6 @@ ${constraints || '(da compilare)'}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Generata con Costruttore di Specifiche Software
-https://cristianporco.it/app/specmaker/
+https://github.com/bonciarello/specmaker/
 `;
 }

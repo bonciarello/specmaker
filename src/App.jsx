@@ -71,8 +71,8 @@ export default function App() {
         <p>
           <strong>Costruttore di Specifiche Software</strong> &mdash; uno strumento
           gratuito per redigere specifiche tecniche da modelli pronti.{' '}
-          <a href="https://cristianporco.it/app/specmaker/" rel="noopener noreferrer">
-            cristianporco.it/app/specmaker
+          <a href="https://github.com/bonciarello/specmaker/" rel="noopener noreferrer">
+            github.com/bonciarello/specmaker
           </a>
         </p>
       </footer>
