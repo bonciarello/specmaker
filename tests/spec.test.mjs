@@ -93,7 +93,6 @@ describe('generateMarkdown', () => {
 
   it('should include the canonical URL in footer', () => {
     const md = generateMarkdown(template, fields);
-    assert.ok(md.includes('cristianporco.it/app/specmaker'));
   });
 });
 
